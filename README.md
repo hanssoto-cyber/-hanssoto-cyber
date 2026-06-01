@@ -63,7 +63,7 @@ Construí mi portafolio web desde cero con Django y lo desplegué en producción
 [✓] Cisco CCNA — Conmutación, Enrutamiento y Redes Inalámbricas   2025
 [✓] IBM SkillsBuild — Fundamentos de Inteligencia Artificial        2025
 [~] Ingeniería en Ciberseguridad — IPLACEX                         2025–
-[~] Full Stack Python Trainee V2.0 — SENCE                         2024–
+[~] Full Stack Python Trainee V2.0 — SENCE                         2026–
 ```
 
 ---
